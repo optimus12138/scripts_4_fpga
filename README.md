@@ -1,4 +1,4 @@
-# Script for FPGA
+# Scripts for FPGA
 
 ## ModelSim独立仿真脚本
 ### 所需文件
@@ -35,13 +35,13 @@
 
 ## 代码说明
 └─ Non-prj
-   ├─ initiate.tcl                              初始化
-   ├─ readme.md                           说明文件
-   ├─ run_bitstream.tcl                   生成比特流
-   ├─ run_hw.tcl                             烧录到硬件
-   ├─ run_impl.tcl                           实现
-   ├─ run_ns.tcl                              命名空间和执行过程
-   ├─ run_read_src.tcl                    读取设计源
-   ├─ run_synth_ip.tcl                    ip综合
-   ├─ run_synth.tcl                         综合
-   ├─ run.tcl                                   执行
+   ├─ initiate.tcl                              初始化  
+   ├─ readme.md                           说明文件  
+   ├─ run_bitstream.tcl                   生成比特流  
+   ├─ run_hw.tcl                             烧录到硬件  
+   ├─ run_impl.tcl                           实现  
+   ├─ run_ns.tcl                              命名空间和执行过程  
+   ├─ run_read_src.tcl                    读取设计源  
+   ├─ run_synth_ip.tcl                    ip综合  
+   ├─ run_synth.tcl                         综合  
+   ├─ run.tcl                                   执行  
