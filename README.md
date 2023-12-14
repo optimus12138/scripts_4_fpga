@@ -21,7 +21,7 @@
 ### 操作步骤
 1. 载入源文件：在Sources中放入.v文件，xdc约束文件等
 2. 综合-实现
-   1. 打开Vivado并进入工程目录 cd ./Non-prj
+   1. 打开Vivado并进入工程目录 `cd ./Non-prj`
    （注意，目录中斜杠为正斜杠/，若复制的为反斜杠/，则需在每个斜杠前再加一个反斜杠/）
    2. 初始化 `source initiate.tcl`
    3. 执行综合-实现 `source run.tcl`
