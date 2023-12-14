@@ -7,7 +7,7 @@
 - RTL仿真文件
   
 ### 操作步骤
-1. 载入文件： 在modelsim/Sim/src和modelsim/Sim/sim中分别载入源文件和仿真文件
+1. 载入文件： 在src和sim中分别载入源文件和仿真文件
 （sim文件中只放一个主要仿真的文件，其他文件都放在src中）
 1. 双击do.bat即可看到波形
 
@@ -19,8 +19,7 @@
 
 
 ### 操作步骤
-1. 载入源文件
-    在Sources中放入.v文件，xdc约束文件等
+1. 载入源文件：在Sources中放入.v文件，xdc约束文件等
 2. 综合-实现
    1. 打开Vivado并进入工程目录 cd ./Non-prj
    （注意，目录中斜杠为正斜杠/，若复制的为反斜杠/）
@@ -33,7 +32,7 @@
    
 
 ## 代码说明
-└─ Non-prj
+└─ Non-prj  
    ├─ initiate.tcl                              初始化  
    ├─ readme.md                           说明文件  
    ├─ run_bitstream.tcl                   生成比特流  
