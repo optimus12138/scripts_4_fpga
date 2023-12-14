@@ -7,10 +7,9 @@
 - RTL仿真文件
   
 ### 操作步骤
-1. 载入文件
-    在modelsim/Sim/src和modelsim/Sim/sim中分别载入源文件和仿真文件
-    （sim文件中只放一个主要仿真的文件，其他文件都放在src中）
-2. 双击do.bat即可看到波形
+1. 载入文件： 在modelsim/Sim/src和modelsim/Sim/sim中分别载入源文件和仿真文件
+（sim文件中只放一个主要仿真的文件，其他文件都放在src中）
+1. 双击do.bat即可看到波形
 
 
 ## Vivado non-project tcl脚本
