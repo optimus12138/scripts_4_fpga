@@ -31,7 +31,7 @@
    2. 执行烧录 `source run_hw.tcl`
    
 
-## 代码说明
+### 代码说明
 └─ Non-prj  
    ├─ initiate.tcl                              初始化  
    ├─ readme.md                           说明文件  
