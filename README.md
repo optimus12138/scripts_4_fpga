@@ -15,7 +15,7 @@
 ## Vivado non-project tcl脚本
 ### 说明
 默认型号为 xc7a200t fbg484  -2
-若为不同型号，则需在 run.tcl、runhardware.tcl 中相应位置修改
+若为不同型号，则需在 run.tcl、run_hw.tcl 中相应位置修改
 
 
 ### 操作步骤
